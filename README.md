@@ -15,6 +15,7 @@ as word blinking. This is inbuilt with most python modules however it is availab
 to install online for free.
 
 **Terminal Version**
+
 Link for part 3 terminal video:
 https://drive.google.com/file/d/176DYRfAwk7PdeWFtLVPIfyxeHT7gS5JA/view?usp=sharing
 
@@ -23,6 +24,7 @@ https://drive.google.com/file/d/1mV55u_VQvJE3-90H-guwQikYfCPC5p0A/view?usp=shari
 
 
 **GUI Version**
+
 Link for part 3 GUI video:
 https://drive.google.com/file/d/1YfGhSzMa6jPVp96jTfZO_rQWCE1h9bP_/view?usp=sharing
 
