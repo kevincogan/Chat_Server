@@ -19,7 +19,7 @@ to install online for free.
 Link for part 3 terminal video:
 https://drive.google.com/file/d/176DYRfAwk7PdeWFtLVPIfyxeHT7gS5JA/view?usp=sharing
 
-**Link to part 4 terminal video:**
+Link to part 4 terminal video:
 https://drive.google.com/file/d/1mV55u_VQvJE3-90H-guwQikYfCPC5p0A/view?usp=sharing
 
 
