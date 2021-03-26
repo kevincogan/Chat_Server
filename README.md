@@ -1,3 +1,4 @@
+# Chat Server
 
 In this file I have completed a terminal verions and GUI version of the chatroom
 that can communicate with mutiple clients by a server. The GUI implementation can
