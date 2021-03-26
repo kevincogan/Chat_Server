@@ -1,13 +1,13 @@
 # Chat Server
 
-In this file I have completed a terminal verions and GUI version of the chatroom
-that can communicate with mutiple clients by a server. The GUI implementation can
+In this file I have completed a terminal version and GUI version of the chatroom
+that can communicate with multiple clients by a server. The GUI implementation can
 be found in the gui_version file and the terminal implementation can be found in
 the terminal_version file.
 
 In the terminal file I have implemented a pydoc for the server.py and client.py as
 I use an external module called term colour. I had to separate the pydoc from the
-orginal files however it will function as normal.
+original files however it will function as normal.
 
 The only external module I have imported is the termcolor library that allows
 the change of colours on the command line as well as more dynamic display such
@@ -29,3 +29,5 @@ https://drive.google.com/file/d/1YfGhSzMa6jPVp96jTfZO_rQWCE1h9bP_/view?usp=shari
 
 link to part 4 GUI video:
 https://drive.google.com/file/d/1mV55u_VQvJE3-90H-guwQikYfCPC5p0A/view?usp=sharing
+
+
