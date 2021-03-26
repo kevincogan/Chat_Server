@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1mV55u_VQvJE3-90H-guwQikYfCPC5p0A/view?usp=shari
 Link for part 3 GUI video:
 https://drive.google.com/file/d/1YfGhSzMa6jPVp96jTfZO_rQWCE1h9bP_/view?usp=sharing
 
-link to part 4 GUI video:
+Link to part 4 GUI video:
 https://drive.google.com/file/d/1mV55u_VQvJE3-90H-guwQikYfCPC5p0A/view?usp=sharing
 
 
